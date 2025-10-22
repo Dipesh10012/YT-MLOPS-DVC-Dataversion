@@ -1,0 +1,26 @@
+create a git repo and clone it in local
+create mycode.py and add code to it.(it will save a csv file to a new "data" folder)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
